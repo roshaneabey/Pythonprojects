@@ -1,2 +1,2 @@
 # PyProjects
-Building efficient applications and automating the everyday. Turning repetitive tasks into streamlined Python scripts.
+Building efficient applications and automating the everyday tasks. Turning repetitive tasks into streamlined Python scripts.
